@@ -1,0 +1,47 @@
+[
+  {
+    "genre": "Action Adventure",
+    "caption": "With the arrival of new consoles in the 2010s, developers finally achieved the cinematic scale they had imagined for years. Players turned to sprawling, story-driven adventures like GTA V and Tomb Raider for escape and immersion. By the 2020s, this blend of action and storytelling became the face of mainstream gaming.",
+    "image": "images/action_adventure.jpg"
+  },
+  {
+    "genre": "Adventure / Narrative",
+    "caption": "Story-driven games flourished as tools made it easier to create believable characters and emotional choices. Titles like Life is Strange, Firewatch, and Telltale’s The Walking Dead reflected players’ growing appetite for empathy and reflection in play.",
+    "image": "images/adventure.jpg"
+  },
+  {
+    "genre": "Action RPG",
+    "caption": "As technology caught up with ambition, games like Dark Souls, Skyrim, and The Witcher 3 redefined what it meant to explore and struggle. Their mix of challenge, discovery, and personal growth struck a chord with players seeking depth and mastery.",
+    "image": "images/action_RPG.jpg"
+  },
+  {
+    "genre": "FPS / Competitive",
+    "caption": "Fast internet and streaming culture turned shooters into global arenas. From Counter-Strike to Valorant, these games became social performance spaces where precision and teamwork define modern competition.",
+    "image": "images/FPS.jpg"
+  },
+  {
+    "genre": "Real-Time Strategy",
+    "caption": "Once the backbone of PC gaming, RTS titles like StarCraft and Age of Empires symbolized an era of careful planning and control. Though the genre has faded in the age of faster online play, its influence still shapes management and tactics-based games today.",
+    "image": "images/RTS.jpg"
+  },
+  {
+    "genre": "Simulation / Cozy",
+    "caption": "From The Sims to Stardew Valley, simulation and life-sim games gave players the power to create calm, personal worlds. Their rise during the pandemic reflected a cultural desire for control, creativity, and comfort in uncertain times.",
+    "image": "images/simulation.jpg"
+  },
+  {
+    "genre": "Racing / Sports Sim",
+    "caption": "Better physics, esports tournaments, and streaming gave racing and sports sims new life. When real sports paused during 2020, virtual leagues filled the gap, blurring the line between simulation and competition.",
+    "image": "images/auto_racing_sim.jpg"
+  },
+  {
+    "genre": "2D Platformer / Indie",
+    "caption": "The indie boom of the 2010s brought pixel art and tight design back into focus. Games like Celeste, Hollow Knight, and Undertale proved that small teams could still deliver some of gaming’s most heartfelt experiences.",
+    "image": "images/2d_platformer.jpg"
+  },
+  {
+    "genre": "Horror / Survival",
+    "caption": "From Resident Evil to Phasmophobia, horror games evolved into interactive tension machines. Their growing realism and psychological depth mirrored how players confronted fear, isolation, and survival in modern culture.",
+    "image": "images/horror_survival.jpg"
+  }
+]

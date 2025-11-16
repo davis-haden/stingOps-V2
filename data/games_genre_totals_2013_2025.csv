@@ -1,0 +1,323 @@
+year,genre,total
+2013,Action,226
+2013,Adventure,171
+2013,Animation & Modeling,4
+2013,Audio Production,3
+2013,Casual,86
+2013,Design & Illustration,3
+2013,Early Access,4
+2013,Education,4
+2013,Free To Play,23
+2013,Game Development,3
+2013,Gore,1
+2013,Indie,258
+2013,Massively Multiplayer,15
+2013,RPG,89
+2013,Racing,19
+2013,Simulation,72
+2013,Software Training,4
+2013,Sports,14
+2013,Strategy,115
+2013,Utilities,7
+2013,Video Production,2
+2013,Web Publishing,3
+2014,Action,631
+2014,Adventure,578
+2014,Animation & Modeling,8
+2014,Audio Production,6
+2014,Casual,413
+2014,Design & Illustration,14
+2014,Early Access,45
+2014,Education,8
+2014,Free To Play,62
+2014,Indie,877
+2014,Massively Multiplayer,22
+2014,Nudity,1
+2014,Photo Editing,3
+2014,RPG,273
+2014,Racing,59
+2014,Simulation,230
+2014,Software Training,7
+2014,Sports,48
+2014,Strategy,335
+2014,Utilities,22
+2014,Video Production,6
+2014,Violent,1
+2014,Web Publishing,2
+2015,Action,1089
+2015,Adventure,983
+2015,Animation & Modeling,14
+2015,Audio Production,7
+2015,Casual,759
+2015,Design & Illustration,20
+2015,Early Access,136
+2015,Education,15
+2015,Free To Play,150
+2015,Game Development,7
+2015,Gore,1
+2015,Indie,1836
+2015,Massively Multiplayer,52
+2015,Photo Editing,8
+2015,RPG,480
+2015,Racing,86
+2015,Simulation,440
+2015,Software Training,27
+2015,Sports,93
+2015,Strategy,563
+2015,Utilities,27
+2015,Video Production,9
+2015,Violent,2
+2015,Web Publishing,8
+2016,Accounting,4
+2016,Action,1813
+2016,Adventure,1529
+2016,Animation & Modeling,28
+2016,Audio Production,19
+2016,Casual,1562
+2016,Design & Illustration,42
+2016,Early Access,351
+2016,Education,31
+2016,Free To Play,271
+2016,Game Development,7
+2016,Gore,32
+2016,Indie,2937
+2016,Massively Multiplayer,94
+2016,Nudity,11
+2016,Photo Editing,10
+2016,RPG,586
+2016,Racing,139
+2016,Sexual Content,9
+2016,Simulation,798
+2016,Software Training,15
+2016,Sports,225
+2016,Strategy,761
+2016,Utilities,55
+2016,Video Production,18
+2016,Violent,50
+2016,Web Publishing,6
+2017,Accounting,6
+2017,Action,2633
+2017,Adventure,2288
+2017,Animation & Modeling,47
+2017,Audio Production,25
+2017,Battle Royale,150
+2017,Casual,2386
+2017,Design & Illustration,68
+2017,Early Access,548
+2017,Education,57
+2017,Free To Play,400
+2017,Game Development,4
+2017,Gore,135
+2017,Indie,4240
+2017,Massively Multiplayer,156
+2017,Movie,1
+2017,Nudity,51
+2017,Photo Editing,18
+2017,RPG,834
+2017,Racing,209
+2017,Sexual Content,42
+2017,Simulation,1129
+2017,Software Training,18
+2017,Sports,324
+2017,Strategy,1096
+2017,Utilities,82
+2017,Video Production,45
+2017,Violent,224
+2017,Web Publishing,11
+2018,Accounting,5
+2018,Action,3149
+2018,Adventure,2778
+2018,Animation & Modeling,44
+2018,Audio Production,21
+2018,Casual,3341
+2018,Design & Illustration,48
+2018,Early Access,691
+2018,Education,41
+2018,Free To Play,552
+2018,Game Development,15
+2018,Gore,94
+2018,Indie,5736
+2018,Massively Multiplayer,195
+2018,Nudity,33
+2018,Photo Editing,10
+2018,RPG,1169
+2018,Racing,275
+2018,Sexual Content,39
+2018,Simulation,1493
+2018,Software Training,17
+2018,Sports,394
+2018,Strategy,1350
+2018,Utilities,86
+2018,Video Production,32
+2018,Violent,149
+2018,Web Publishing,9
+2019,Accounting,2
+2019,Action,2600
+2019,Adventure,2456
+2019,Animation & Modeling,28
+2019,Audio Production,17
+2019,Casual,2556
+2019,Design & Illustration,34
+2019,Early Access,614
+2019,Education,38
+2019,Free To Play,504
+2019,Game Development,24
+2019,Gore,1
+2019,Indie,4674
+2019,Massively Multiplayer,165
+2019,Photo Editing,9
+2019,RPG,1128
+2019,Racing,232
+2019,Simulation,1239
+2019,Software Training,15
+2019,Sports,280
+2019,Strategy,1184
+2019,Utilities,87
+2019,Video Production,17
+2019,Violent,1
+2019,Web Publishing,11
+2020,360 Video,1
+2020,Accounting,3
+2020,Action,5460
+2020,Adventure,3408
+2020,Animation & Modeling,42
+2020,Audio Production,19
+2020,Casual,9192
+2020,Design & Illustration,52
+2020,Documentary,1
+2020,Early Access,789
+2020,Education,45
+2020,Episodic,1
+2020,Free To Play,1982
+2020,Game Development,31
+2020,Indie,6392
+2020,Massively Multiplayer,208
+2020,Movie,1
+2020,Photo Editing,12
+2020,RPG,1505
+2020,Racing,297
+2020,Short,1
+2020,Simulation,4280
+2020,Software Training,18
+2020,Sports,423
+2020,Strategy,1646
+2020,Tutorial,1
+2020,Utilities,82
+2020,Video Production,26
+2020,Web Publishing,12
+2021,Accounting,1
+2021,Action,3410
+2021,Adventure,3462
+2021,Animation & Modeling,27
+2021,Audio Production,16
+2021,Casual,3707
+2021,Design & Illustration,34
+2021,Early Access,851
+2021,Education,33
+2021,Free To Play,729
+2021,Game Development,31
+2021,Indie,5895
+2021,Massively Multiplayer,194
+2021,Photo Editing,13
+2021,RPG,1562
+2021,Racing,297
+2021,Simulation,1705
+2021,Software Training,15
+2021,Sports,340
+2021,Strategy,1521
+2021,Subscription,120
+2021,Utilities,76
+2021,Video Production,22
+2021,Violent,1
+2021,Web Publishing,9
+2022,Accounting,1
+2022,Action,3656
+2022,Adventure,3744
+2022,Animation & Modeling,38
+2022,Audio Production,15
+2022,Casual,4086
+2022,Design & Illustration,37
+2022,Early Access,966
+2022,Education,36
+2022,Esports,180
+2022,Free To Play,934
+2022,Game Development,32
+2022,Indie,6259
+2022,Massively Multiplayer,217
+2022,Photo Editing,11
+2022,RPG,1709
+2022,Racing,358
+2022,Simulation,1897
+2022,Software Training,19
+2022,Sports,397
+2022,Strategy,1737
+2022,Utilities,72
+2022,Video Production,28
+2022,Web Publishing,9
+2023,Action,5233
+2023,Adventure,5220
+2023,Animation & Modeling,56
+2023,Audio Production,14
+2023,Casual,5758
+2023,Design & Illustration,70
+2023,Early Access,1399
+2023,Education,37
+2023,Free To Play,1168
+2023,Game Development,55
+2023,Indie,8533
+2023,Massively Multiplayer,296
+2023,Photo Editing,25
+2023,RPG,2484
+2023,Racing,505
+2023,Sandbox,140
+2023,Simulation,2766
+2023,Software Training,16
+2023,Sports,562
+2023,Strategy,2480
+2023,Utilities,99
+2023,Video Production,38
+2023,Web Publishing,7
+2024,Accounting,2
+2024,Action,7060
+2024,Adventure,7238
+2024,Animation & Modeling,50
+2024,Audio Production,28
+2024,Casual,8386
+2024,Design & Illustration,63
+2024,Early Access,2220
+2024,Education,35
+2024,Free To Play,2719
+2024,Game Development,40
+2024,Indie,12738
+2024,Massively Multiplayer,412
+2024,Photo Editing,25
+2024,RPG,3621
+2024,Racing,671
+2024,Simulation,4087
+2024,Software Training,18
+2024,Sports,697
+2024,Strategy,3661
+2024,Utilities,134
+2024,Video Production,38
+2024,Web Publishing,11
+2025,Action,1365
+2025,Adventure,1391
+2025,Animation & Modeling,7
+2025,Audio Production,5
+2025,Casual,1664
+2025,Design & Illustration,8
+2025,Early Access,499
+2025,Education,9
+2025,Free To Play,500
+2025,Game Development,6
+2025,Indie,2480
+2025,Massively Multiplayer,78
+2025,Photo Editing,4
+2025,RPG,771
+2025,Racing,129
+2025,Simulation,836
+2025,Software Training,3
+2025,Sports,133
+2025,Strategy,699
+2025,Utilities,26
+2025,Video Production,4

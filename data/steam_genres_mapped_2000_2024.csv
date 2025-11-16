@@ -1,0 +1,142 @@
+year,genre,count
+2003.0,2d platformer / indie,1
+2005.0,2d platformer / indie,1
+2006.0,2d platformer / indie,6
+2007.0,2d platformer / indie,5
+2008.0,2d platformer / indie,19
+2009.0,2d platformer / indie,58
+2010.0,2d platformer / indie,63
+2011.0,2d platformer / indie,104
+2012.0,2d platformer / indie,168
+2013.0,2d platformer / indie,246
+2014.0,2d platformer / indie,776
+2015.0,2d platformer / indie,1496
+2016.0,2d platformer / indie,2184
+2017.0,2d platformer / indie,2657
+2018.0,2d platformer / indie,2958
+2019.0,2d platformer / indie,2523
+2020.0,2d platformer / indie,3125
+2021.0,2d platformer / indie,3421
+2022.0,2d platformer / indie,3635
+2023.0,2d platformer / indie,4165
+2024.0,2d platformer / indie,2398
+2000.0,action adventure,2
+2001.0,action adventure,2
+2002.0,action adventure,1
+2003.0,action adventure,2
+2004.0,action adventure,2
+2006.0,action adventure,14
+2007.0,action adventure,50
+2008.0,action adventure,43
+2009.0,action adventure,113
+2010.0,action adventure,82
+2011.0,action adventure,109
+2012.0,action adventure,154
+2013.0,action adventure,219
+2014.0,action adventure,566
+2015.0,action adventure,893
+2016.0,action adventure,1285
+2017.0,action adventure,1568
+2018.0,action adventure,1588
+2019.0,action adventure,1402
+2020.0,action adventure,1781
+2021.0,action adventure,1964
+2022.0,action adventure,2186
+2023.0,action adventure,2679
+2024.0,action adventure,1443
+2005.0,action rpg,1
+2006.0,action rpg,2
+2007.0,action rpg,9
+2008.0,action rpg,13
+2009.0,action rpg,36
+2010.0,action rpg,29
+2011.0,action rpg,48
+2012.0,action rpg,55
+2013.0,action rpg,72
+2014.0,action rpg,250
+2015.0,action rpg,410
+2016.0,action rpg,456
+2017.0,action rpg,571
+2018.0,action rpg,656
+2019.0,action rpg,631
+2020.0,action rpg,740
+2021.0,action rpg,891
+2022.0,action rpg,1013
+2023.0,action rpg,1306
+2024.0,action rpg,692
+2002.0,adventure / narrative,1
+2007.0,adventure / narrative,6
+2008.0,adventure / narrative,16
+2009.0,adventure / narrative,69
+2010.0,adventure / narrative,50
+2011.0,adventure / narrative,60
+2012.0,adventure / narrative,103
+2013.0,adventure / narrative,157
+2014.0,adventure / narrative,522
+2015.0,adventure / narrative,844
+2016.0,adventure / narrative,1177
+2017.0,adventure / narrative,1524
+2018.0,adventure / narrative,1576
+2019.0,adventure / narrative,1454
+2020.0,adventure / narrative,1771
+2021.0,adventure / narrative,2146
+2022.0,adventure / narrative,2244
+2023.0,adventure / narrative,2664
+2024.0,adventure / narrative,1452
+2006.0,racing / sports sim,2
+2007.0,racing / sports sim,3
+2008.0,racing / sports sim,10
+2009.0,racing / sports sim,19
+2010.0,racing / sports sim,10
+2011.0,racing / sports sim,20
+2012.0,racing / sports sim,16
+2013.0,racing / sports sim,32
+2014.0,racing / sports sim,96
+2015.0,racing / sports sim,147
+2016.0,racing / sports sim,271
+2017.0,racing / sports sim,323
+2018.0,racing / sports sim,364
+2019.0,racing / sports sim,317
+2020.0,racing / sports sim,407
+2021.0,racing / sports sim,401
+2022.0,racing / sports sim,528
+2023.0,racing / sports sim,634
+2024.0,racing / sports sim,335
+2006.0,real-time strategy,17
+2007.0,real-time strategy,19
+2008.0,real-time strategy,27
+2009.0,real-time strategy,67
+2010.0,real-time strategy,60
+2011.0,real-time strategy,84
+2012.0,real-time strategy,77
+2013.0,real-time strategy,109
+2014.0,real-time strategy,313
+2015.0,real-time strategy,472
+2016.0,real-time strategy,578
+2017.0,real-time strategy,707
+2018.0,real-time strategy,745
+2019.0,real-time strategy,714
+2020.0,real-time strategy,863
+2021.0,real-time strategy,961
+2022.0,real-time strategy,1087
+2023.0,real-time strategy,1373
+2024.0,real-time strategy,767
+2006.0,simulation / cozy,1
+2007.0,simulation / cozy,1
+2008.0,simulation / cozy,16
+2009.0,simulation / cozy,45
+2010.0,simulation / cozy,29
+2011.0,simulation / cozy,27
+2012.0,simulation / cozy,35
+2013.0,simulation / cozy,74
+2014.0,simulation / cozy,215
+2015.0,simulation / cozy,396
+2016.0,simulation / cozy,634
+2017.0,simulation / cozy,790
+2018.0,simulation / cozy,921
+2019.0,simulation / cozy,787
+2020.0,simulation / cozy,989
+2021.0,simulation / cozy,1135
+2022.0,simulation / cozy,1318
+2023.0,simulation / cozy,1591
+2024.0,simulation / cozy,882
