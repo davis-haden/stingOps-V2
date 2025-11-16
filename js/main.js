@@ -364,4 +364,68 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
   }
+  // for streaming madness progress bar
+  if (window.StingOps.bubbleChartPromise) {
+    window.StingOps.bubbleChartPromise.then(() => {
+      const section = document.getElementById('streaming-highlights');
+      const progressBar = document.getElementById('streaming-progress-bar');
+      const bubbleSection = window.StingOps.bubbleChartSection;
+      const navigation = window.StingOps.bubbleChartNavigation;
+
+      if (!section || !progressBar || !bubbleSection || !navigation) {
+        return;
+      }
+      const cardElements =
+        bubbleSection.container?.querySelectorAll?.('[data-bubble-card]') || [];
+      if (!cardElements.length) {
+        return;
+      }
+
+      Array.from(
+        progressBar.querySelectorAll('.streaming-progress-circle')
+      ).forEach((el) => el.remove());
+
+      const circles = Array.from(cardElements).map((cardEl, index) => {
+        const titleEl = cardEl.querySelector('h2');
+        const titleText = titleEl ? titleEl.textContent.trim() : '';
+        const circle = document.createElement('button');
+        circle.type = 'button';
+        circle.className =
+          'simple-progress-circle streaming-progress-circle';
+        circle.setAttribute('data-step-index', String(index));
+        circle.setAttribute(
+          'aria-label',
+          `Streaming Madness step ${index + 1}: ${
+            titleText || 'Slide'
+          }`
+        );
+        progressBar.appendChild(circle);
+        circle.addEventListener('click', () => {
+          navigation.index = index;
+          updateCircleState(index);
+        });
+        return circle;
+      });
+
+      const updateCircleState = (activeIndex) => {
+        circles.forEach((circle, index) => {
+          circle.classList.toggle('active', index === activeIndex);
+          circle.classList.toggle('completed', index < activeIndex);
+        });
+      };
+
+      if (navigation.prevBtn) {
+        navigation.prevBtn.addEventListener('click', () => {
+          updateCircleState(navigation.index);
+        });
+      }
+      if (navigation.nextBtn) {
+        navigation.nextBtn.addEventListener('click', () => {
+          updateCircleState(navigation.index);
+        });
+      }
+
+      updateCircleState(navigation.index || 0);
+    });
+  }
 });
