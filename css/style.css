@@ -353,7 +353,32 @@ body {
 }
 
 #resolution {
-  background: #f4f0ff;
+  position: relative;
+  color: #f8f9ff;
+  overflow: hidden;
+}
+
+#resolution::before {
+  content: "";
+  position: absolute;
+  inset: -10px;
+  background: url("../assets/final_background.png") center / cover no-repeat;
+  filter: blur(2px);
+  transform: scale(1.05);
+  z-index: 0;
+}
+
+#resolution::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(rgba(10, 10, 15, 0.7), rgba(10, 10, 15, 0.7));
+  z-index: 1;
+}
+
+#resolution > .container {
+  position: relative;
+  z-index: 2;
 }
 
 /* 
