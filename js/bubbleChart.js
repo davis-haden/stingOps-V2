@@ -340,6 +340,9 @@ class BubbleChartSection {
         <div class="chart-card" data-bubble-card data-card-type="chart">
           <h2 class="display-5 mb-4">${card.title}</h2>
           <p class="chart-subtitle">${card.subtitle}</p>
+          <p class="bubble-chart-instruction">
+          Hover over bubbles to see which games dominated.
+          </p>
           <div class="chart-content">
             <div id="${card.id}"></div>
             <div class="chart-description-container">

@@ -821,6 +821,13 @@ body {
    Streaming Bubble Chart
  */
 
+.bubble-chart-instruction {
+    font-size: 0.85rem;
+    color: #4b1b9b;
+    margin-top: 0.5rem;
+    font-style: italic;
+}
+
 #streaming-highlights {
   display: flex;
   align-items: center;
@@ -871,8 +878,8 @@ body {
 }
 
 .bubblechart-container .chart-subtitle {
-  margin: 0.5rem 0 0;
-  font-size: 0.85rem;
+  margin: 0.3rem 0 0;
+  font-size: 1.25em;
   letter-spacing: 0.18em;
   text-transform: uppercase;
   color: #64748b;
