@@ -1079,6 +1079,11 @@ body {
   text-align: left;
 }
 
+.guessgame-instruction {
+    color: #f59e0b;
+    font-style: italic;
+}
+
 .gg-svg {
   width: 100%;
   height: auto;
