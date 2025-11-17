@@ -140,7 +140,7 @@ class StackedBarChart {
       .attr("x", innerWidth)
       .attr("y", -12)
       .attr("text-anchor", "end")
-      .text(`Total: ${this.totalsFormatter(total)}`);
+      .text(`Total number of releases: ${this.totalsFormatter(total)}`);
 
     this.barContainer.attr(
       "transform",
